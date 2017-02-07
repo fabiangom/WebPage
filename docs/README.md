@@ -1,6 +1,6 @@
 # Site Map
 
-![alt text](/images/Screenshot from 2017-02-07 10-22-11.png)
+![alt text](images/Screenshot from 2017-02-07 10-22-11.png)
 
 * **Home** - Vista principal para los usuarios cuando acceden al sitio web, donde se encontraran ofertas, imagenes o breve informacion.
 
